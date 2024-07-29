@@ -1,0 +1,75 @@
+img{
+    display:block;
+    margin: auto;
+    border-radius: 10px;
+    height: 250px;
+    width: 500px;
+}
+
+.sololearn{
+    display:block;
+    justify-content: center;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    padding: 0;
+}
+h2{
+    text-align: center;
+    font-style: italic;
+    color: #1E90FF;
+    font-size: 40px;
+}
+
+.tt{
+    font-size: 30px;
+    display: block;
+}
+
+element style{ 
+        color: #2493DF;
+        font-family: Caveat, Gloria Hallelujah;
+        font-weight: normal;
+    
+}
+
+.para{
+    color: grey;
+    text-align: center;
+    font-size: 20px;
+    
+    padding-left: 500px;
+    padding-right: 500px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    height:100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.tht{
+    text-align: center;
+}
+
+.btn{
+    text-align: center;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #2493DF;
+    width: 250px;
+    padding: 10px;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+.btn:hover, .btn:focus, .btn:active{
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
